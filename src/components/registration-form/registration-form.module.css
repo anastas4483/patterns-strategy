@@ -1,0 +1,14 @@
+.registration-form{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  position: relative;
+  padding-bottom: 30px;
+
+  .hint{
+    position: absolute;
+    bottom:0;
+    color: #cc4a4a;  
+  }
+}

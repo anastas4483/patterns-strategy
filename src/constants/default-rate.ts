@@ -1,0 +1,1 @@
+export const defaultRate = 400;

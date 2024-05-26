@@ -1,0 +1,10 @@
+.registration-result{
+  text-align: center;
+  /* display: flex;
+  flex-direction: column;
+  gap: 6px; */
+
+  .go-back-button{
+    margin-top: 16px;
+  }
+}
